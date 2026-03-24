@@ -158,7 +158,6 @@ AI usage in this project:
 
 - AI was used for documentation support and README drafting.
 - It was used to inspect the repository structure, summarize the behavior of the five exercises, and provide bilingual English/Japanese wording.
-- The README was aligned with the code in `ex0` through `ex4`, but the implementation and required local test files should still be checked manually before submission and peer review.
 
 ### 日本語
 
